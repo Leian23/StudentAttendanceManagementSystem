@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ApplicationLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DataLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ApplicationLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApplicationLayer.dll": {}
+        }
+      },
+      "DataLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DataLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplicationLayer/1.0.0": {
+      "type": "project",
+      "path": "../Functions/ApplicationLayer.csproj",
+      "msbuildProject": "../Functions/ApplicationLayer.csproj"
+    },
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "path": "../TextFileStream/DataLayer.csproj",
+      "msbuildProject": "../TextFileStream/DataLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ApplicationLayer >= 1.0.0",
+      "DataLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\leand\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\leand\\OneDrive\\Desktop\\HCI\\Student Attendance Management System\\UserInterface\\Presentation Layer.csproj",
+      "projectName": "Presentation Layer",
+      "projectPath": "C:\\Users\\leand\\OneDrive\\Desktop\\HCI\\Student Attendance Management System\\UserInterface\\Presentation Layer.csproj",
+      "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leand\\OneDrive\\Desktop\\HCI\\Student Attendance Management System\\UserInterface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\leand\\OneDrive\\Desktop\\HCI\\Student Attendance Management System\\Functions\\ApplicationLayer.csproj": {
+              "projectPath": "C:\\Users\\leand\\OneDrive\\Desktop\\HCI\\Student Attendance Management System\\Functions\\ApplicationLayer.csproj"
+            },
+            "C:\\Users\\leand\\OneDrive\\Desktop\\HCI\\Student Attendance Management System\\TextFileStream\\DataLayer.csproj": {
+              "projectPath": "C:\\Users\\leand\\OneDrive\\Desktop\\HCI\\Student Attendance Management System\\TextFileStream\\DataLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

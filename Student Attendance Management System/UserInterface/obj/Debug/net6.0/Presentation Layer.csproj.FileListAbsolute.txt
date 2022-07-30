@@ -1,0 +1,40 @@
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.exe
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.deps.json
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.runtimeconfig.json
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.dll
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.pdb
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\DataLayer.dll
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.csproj.CopyComplete
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.dll
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\refint\Presentation Layer.dll
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.pdb
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Pictures\Documents\hello\Student Attendance Management System\UserInterface\obj\Debug\net6.0\ref\Presentation Layer.dll
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.exe
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.deps.json
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.runtimeconfig.json
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.dll
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\Presentation Layer.pdb
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\ApplicationLayer.dll
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\DataLayer.dll
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\ApplicationLayer.pdb
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.csproj.CopyComplete
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.dll
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\refint\Presentation Layer.dll
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.pdb
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\Presentation Layer.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Desktop\HCI\Student Attendance Management System\UserInterface\obj\Debug\net6.0\ref\Presentation Layer.dll
